@@ -1,0 +1,22 @@
+git init
+git add fileName / .
+
+git commit -m "msg" 
+
+git log // Check all the Commits.
+
+git status
+
+git branch
+
+git checkout name
+git remote add origin "path"
+
+git push origin branchName[main]
+git clone repo address.
+
+
+git merge bn.
+
+
+
